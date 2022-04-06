@@ -19,6 +19,6 @@ The course is structured in two parts:
   
 ## Important information
 We are a Copenhagen-based (DK) branch of __Saturdays.AI__, a non-profit that aims to democratize people's access to Artificial Intelligence (AI).
-Feel free to take a sneak peak at our notebooks and try completing the Challenges! We have put together the material, sometimes from scratch and sometimes based on well known open machine learning courses.
+Feel free to take a sneak peak at our notebooks and try completing the Challenges! We have put together the material, sometimes from scratch, sometimes from other Saturdays.AI editions and sometimes based on well known open machine learning courses.
 
 As a side note, are always open for new material to improve the educational quality of our courses, so feel free to reach out through Social Media at one of our profiles - we are on _LinkedIn_, _Twitter_, _Facebook_, _Instagram_ and try to be active on _Meetup_. 
