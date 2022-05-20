@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Notes and old versions of files
+.old.version
+notes/
